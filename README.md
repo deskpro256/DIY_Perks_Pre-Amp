@@ -11,14 +11,19 @@ SMD version should be 90% done by JLCPCB and only some hand soldering will be re
 THAT1512 replacement parts:
 
 THAT1510
+
 INA217
+
 INA163
+
 SSM2019
+
 SSM2017
 
 You can also find the projects files here:
 https://oshwlab.com/deskpro256
 or
+
 THT Verison:
 https://oshwlab.com/deskpro256/diy-perks-mic-preamp
 in editor
