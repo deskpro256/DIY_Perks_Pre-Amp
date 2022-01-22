@@ -16,4 +16,16 @@ INA163
 SSM2019
 SSM2017
 
+You can also find the projects files here:
+https://oshwlab.com/deskpro256
+or
+THT Verison:
+https://oshwlab.com/deskpro256/diy-perks-mic-preamp
+in editor
+https://easyeda.com/editor#id=ee6137fee1be4535b4d5186e6996fcc3|d219c992873d4494acba6e4ac4c93853|
+
+SMD Version:
+https://oshwlab.com/deskpro256/diy-perks-mic-preamp_copy
+https://easyeda.com/editor#id=ad06e8a1676f4193a1231e2e66b66e69|bd6e0a7eb19d4316b87a882200655fc3|
+
 More coming soon!
