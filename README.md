@@ -26,11 +26,14 @@ or
 
 THT Verison:
 https://oshwlab.com/deskpro256/diy-perks-mic-preamp
-in editor
+
+in editor:
 https://easyeda.com/editor#id=ee6137fee1be4535b4d5186e6996fcc3|d219c992873d4494acba6e4ac4c93853|
 
 SMD Version:
 https://oshwlab.com/deskpro256/diy-perks-mic-preamp_copy
+
+in editor:
 https://easyeda.com/editor#id=ad06e8a1676f4193a1231e2e66b66e69|bd6e0a7eb19d4316b87a882200655fc3|
 
 More coming soon!
